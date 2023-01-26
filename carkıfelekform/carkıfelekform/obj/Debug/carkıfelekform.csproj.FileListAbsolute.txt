@@ -1,0 +1,11 @@
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\bin\Debug\carkıfelekform.exe.config
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\bin\Debug\carkıfelekform.exe
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\bin\Debug\carkıfelekform.pdb
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.csproj.AssemblyReference.cache
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.Form1.resources
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.Properties.Resources.resources
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.csproj.GenerateResource.cache
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.csproj.CoreCompileInputs.cache
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.exe
+C:\Users\furkan.yildiz\source\repos\carkıfelekform\carkıfelekform\obj\Debug\carkıfelekform.pdb
